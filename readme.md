@@ -31,3 +31,17 @@ push change to git gub
 ````
 git push -u origin <branch>
 ````
+
+To checkout existing branch
+````
+git checkout <branch>
+````
+To checkout new branch
+````
+git checkout -b <new_branch_name>
+````
+
+List brach on local
+````
+git branch <branch>
+````
