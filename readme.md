@@ -27,3 +27,7 @@ To check the userName and email
 git config user.name
 git config user.file
 ````
+push change to git gub
+````
+git push -u origin <branch>
+````
