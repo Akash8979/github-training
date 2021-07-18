@@ -45,3 +45,7 @@ List brach on local
 ````
 git branch <branch>
 ````
+delete branch from local 
+````
+git branch -D <branch_name>
+````
