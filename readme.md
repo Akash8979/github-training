@@ -45,3 +45,15 @@ List brach on local
 ````
 git branch <branch>
 ````
+pull new code in a brach from origin
+````
+git pull origin <branch>
+````
+reset all change from previous commit
+````
+git reset --hard
+````
+check difference from the previous commit
+````
+git diff
+```` 
